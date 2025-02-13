@@ -1,7 +1,7 @@
 name: ios_colors
-description: "A new Flutter package project."
+description: "class contain ios system colors hex"
 version: 0.0.1
-homepage:
+homepage: https://github.com/mohamedalsamrai/ios_colors
 
 environment:
   sdk: ^3.5.3
