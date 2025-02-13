@@ -1,6 +1,6 @@
 name: ios_colors
-description: "class contain ios system colors hex"
-version: 0.0.1
+description: "A Flutter package providing Apple's iOS system colors as hex values. Useful for developers who want to match the native iOS color scheme."
+version: 0.0.22
 homepage: https://github.com/mohamedalsamrai/ios_colors
 
 environment:
